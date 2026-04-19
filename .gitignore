@@ -11,8 +11,6 @@ package-lock.json
 # Arquivo local de lembretes
 memories.md
 
-
-
 # Ignorar o histórico do projeto (contexto do professor)
 /history.md
 
